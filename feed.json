@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "In De Kring",
+    "description": "",
+    "home_page_url": "https://indekring.github.io",
+    "feed_url": "https://indekring.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://indekring.github.io/media/website/d75gtar2.png",
+    "author": {
+        "name": "jccorlay"
+    },
+    "items": [
+    ]
+}

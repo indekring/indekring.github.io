@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://indekring.github.io/sitemap.xml
