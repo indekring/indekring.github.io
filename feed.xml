@@ -3,10 +3,35 @@
     <title>In De Kring</title>
     <link href="https://indekring.github.io/feed.xml" rel="self" />
     <link href="https://indekring.github.io" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2025-05-29T03:34:14+02:00</updated>
     <author>
         <name>jccorlay</name>
     </author>
     <id>https://indekring.github.io</id>
 
+    <entry>
+        <title>Prochaine sortie à Pitgam le 29 juin 2025</title>
+        <author>
+            <name>jccorlay</name>
+        </author>
+        <link href="https://indekring.github.io/rendez-vous-a-pitgam.html"/>
+        <id>https://indekring.github.io/rendez-vous-a-pitgam.html</id>
+        <media:content url="https://indekring.github.io/media/posts/15/pitgam-2.png" medium="image" />
+
+        <updated>2025-05-29T02:37:35+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://indekring.github.io/media/posts/15/pitgam-2.png" alt="" />
+                    Festival de musique Pitgam sur le parvis de l'église. In De Kring dansera en début d'après-midi. Lien vers l'évènement.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://indekring.github.io/media/posts/15/pitgam-2.png" class="type:primaryImage" alt="" /></p>
+                <p>Festival de musique Pitgam sur le parvis de l'église. In De Kring dansera en début d'après-midi.  <a href="https://cchf.fr/agenda/festival-de-musique-pitgam">Lien vers l'évènement.</a></p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
 </feed>

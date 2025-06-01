@@ -10,5 +10,20 @@
         "name": "jccorlay"
     },
     "items": [
+        {
+            "id": "https://indekring.github.io/rendez-vous-a-pitgam.html",
+            "url": "https://indekring.github.io/rendez-vous-a-pitgam.html",
+            "title": "Prochaine sortie à Pitgam le 29 juin 2025",
+            "summary": "Festival de musique Pitgam sur le parvis de l'église. In De Kring dansera en début d'après-midi. Lien vers l'évènement.",
+            "content_html": "<p>Festival de musique Pitgam sur le parvis de l'église. In De Kring dansera en début d'après-midi.  <a href=\"https://cchf.fr/agenda/festival-de-musique-pitgam\">Lien vers l'évènement.</a></p>\n<p> </p>\n<p> </p>",
+            "image": "https://indekring.github.io/media/posts/15/pitgam-2.png",
+            "author": {
+                "name": "jccorlay"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-05-29T02:37:35+02:00",
+            "date_modified": "2025-05-29T03:34:14+02:00"
+        }
     ]
 }
