@@ -3,7 +3,7 @@
     <title>In De Kring</title>
     <link href="https://indekring.fr/feed.xml" rel="self" />
     <link href="https://indekring.fr" />
-    <updated>2025-05-29T03:34:14+02:00</updated>
+    <updated>2025-06-03T00:54:45+02:00</updated>
     <author>
         <name>jccorlay</name>
     </author>
@@ -16,21 +16,18 @@
         </author>
         <link href="https://indekring.fr/rendez-vous-a-pitgam.html"/>
         <id>https://indekring.fr/rendez-vous-a-pitgam.html</id>
-        <media:content url="https://indekring.fr/media/posts/15/pitgam-2.png" medium="image" />
 
         <updated>2025-05-29T02:37:35+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://indekring.fr/media/posts/15/pitgam-2.png" alt="" />
-                    Festival de musique Pitgam sur le parvis de l'église. In De Kring dansera en début d'après-midi. Lien vers l'évènement.
+                    Festival de musique Pitgam sur le parvis de l'église. In De Kring dansera en début d'après-midi. Lien vers l'évènement
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://indekring.fr/media/posts/15/pitgam-2.png" class="type:primaryImage" alt="" /></p>
-                <p>Festival de musique Pitgam sur le parvis de l'église. In De Kring dansera en début d'après-midi.  <a href="https://cchf.fr/agenda/festival-de-musique-pitgam">Lien vers l'évènement.</a></p>
-<p> </p>
-<p> </p>
+                <p>Festival de musique Pitgam sur le parvis de l'église. In De Kring dansera en début d'après-midi.</p>
+<p> <a href="https://cchf.fr/agenda/festival-de-musique-pitgam">Lien vers l'évènement</a></p>
+<figure class="post__image"><a href="https://cchf.fr/agenda/festival-de-musique-pitgam"><img loading="lazy"  src="https://indekring.fr/media/posts/15/pitgam-2-2xl.png" alt="" width="587" height="820" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://indekring.fr/media/posts/15/responsive/pitgam-2-2xl-xs.png 640w ,https://indekring.fr/media/posts/15/responsive/pitgam-2-2xl-sm.png 768w ,https://indekring.fr/media/posts/15/responsive/pitgam-2-2xl-md.png 1024w ,https://indekring.fr/media/posts/15/responsive/pitgam-2-2xl-lg.png 1366w ,https://indekring.fr/media/posts/15/responsive/pitgam-2-2xl-xl.png 1600w ,https://indekring.fr/media/posts/15/responsive/pitgam-2-2xl-2xl.png 1920w"></figure></a></p>
             ]]>
         </content>
     </entry>
