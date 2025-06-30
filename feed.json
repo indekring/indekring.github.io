@@ -10,19 +10,5 @@
         "name": "jccorlay"
     },
     "items": [
-        {
-            "id": "https://indekring.fr/rendez-vous-a-pitgam.html",
-            "url": "https://indekring.fr/rendez-vous-a-pitgam.html",
-            "title": "Prochaine sortie à Pitgam le 29 juin 2025",
-            "summary": "Festival de musique Pitgam sur le parvis de l'église. In De Kring dansera en début d'après-midi. Lien vers l'évènement",
-            "content_html": "<p>Festival de musique Pitgam sur le parvis de l'église. In De Kring dansera en début d'après-midi.</p>\n<p> <a href=\"https://cchf.fr/agenda/festival-de-musique-pitgam\">Lien vers l'évènement</a></p>\n<figure class=\"post__image\"><a href=\"https://cchf.fr/agenda/festival-de-musique-pitgam\"><img loading=\"lazy\"  src=\"https://indekring.fr/media/posts/15/pitgam-2-2xl.png\" alt=\"\" width=\"587\" height=\"820\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://indekring.fr/media/posts/15/responsive/pitgam-2-2xl-xs.png 640w ,https://indekring.fr/media/posts/15/responsive/pitgam-2-2xl-sm.png 768w ,https://indekring.fr/media/posts/15/responsive/pitgam-2-2xl-md.png 1024w ,https://indekring.fr/media/posts/15/responsive/pitgam-2-2xl-lg.png 1366w ,https://indekring.fr/media/posts/15/responsive/pitgam-2-2xl-xl.png 1600w ,https://indekring.fr/media/posts/15/responsive/pitgam-2-2xl-2xl.png 1920w\"></figure></a></p>",
-            "author": {
-                "name": "jccorlay"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-05-29T02:37:35+02:00",
-            "date_modified": "2025-06-03T00:54:45+02:00"
-        }
     ]
 }
