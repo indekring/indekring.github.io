@@ -10,5 +10,19 @@
         "name": "jccorlay"
     },
     "items": [
+        {
+            "id": "https://indekring.fr/nous-rejoindre.html",
+            "url": "https://indekring.fr/nous-rejoindre.html",
+            "title": "Nous rejoindre",
+            "summary": "Vous souhaitez nous rejoindre ? Nous vous invitons à nous rencontrer à l'occasion d'une répétition : Salle Marcellin Berthelot à Dunkerque (Rosendaël), le troisième samedi de chaque mois à 14h30 (Sauf Juillet/Août). À bientôt.",
+            "content_html": "<p>Vous souhaitez nous rejoindre ? Nous vous invitons à nous rencontrer à l'occasion d'une répétition : <a href=\"https://maps.app.goo.gl/dRDTRG2GyUH3fBWK6\">Salle Marcellin Berthelot à Dunkerque (Rosendaël)</a>, le troisième samedi de chaque mois à 14h30 (Sauf Juillet/Août). À bientôt.</p>",
+            "author": {
+                "name": "jccorlay"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-07-01T01:18:36+02:00",
+            "date_modified": "2025-07-01T01:19:38+02:00"
+        }
     ]
 }
